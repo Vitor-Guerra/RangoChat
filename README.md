@@ -1,1 +1,1 @@
-# RangoChat - Trabalhao de Conclusão de Curso
+# RangoChat - Trabalho de Conclusão de Curso
